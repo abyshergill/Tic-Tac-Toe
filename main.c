@@ -37,7 +37,7 @@ int main(void){
 		int continue_value;
 		continue_value = game_continue();
 		if(continue_value == 1){
-			system("a.exe");
+			system("tictactoe.exe");
 		}
 		else{
 			test = 11;
